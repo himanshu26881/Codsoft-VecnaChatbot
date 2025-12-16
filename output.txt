@@ -1,0 +1,132 @@
+======================================================================
+CHATBOT CONVERSATION LOG
+Date: 2025-12-16 11:29:48
+======================================================================
+
+======================================================================
+CHATBOT CONVERSATION LOG
+Date: 2025-12-16 11:30:29
+======================================================================
+
+[2025-12-16 11:30:40]
+You: what is ai
+Bot: AI (Artificial Intelligence) is the simulation of human intelligence in machines programmed to think and learn.
+Category: ai_definition
+--------------------------------------------------
+
+[2025-12-16 11:30:43]
+You: ok
+Bot: That's interesting! Could you ask me something about artificial intelligence?
+Category: default
+--------------------------------------------------
+
+[2025-12-16 11:33:25]
+You: HI
+Bot: Greetings! I'm here to help with your AI questions.
+Category: greetings
+--------------------------------------------------
+
+======================================================================
+CHATBOT CONVERSATION LOG
+Date: 2025-12-16 11:33:51
+======================================================================
+
+======================================================================
+CHATBOT CONVERSATION LOG
+Date: 2025-12-16 11:33:57
+======================================================================
+
+======================================================================
+CHATBOT CONVERSATION LOG
+Date: 2025-12-16 11:34:22
+======================================================================
+
+======================================================================
+CHATBOT CONVERSATION LOG
+Date: 2025-12-16 11:34:47
+======================================================================
+
+[2025-12-16 11:34:58]
+You: who are you
+Bot: I'm Vecna AI, a rule-based chatbot created for AI internship tasks. I log all conversations to output.txt.
+Category: name
+--------------------------------------------------
+
+[2025-12-16 11:38:30]
+You: WHAT IS YOUR NAME
+Bot: I'm called Vecna AI. How can I assist you today? (Note: Our chat is being saved to output.txt)
+Category: name
+--------------------------------------------------
+
+[2025-12-16 11:39:02]
+You: INTRODUCE YOURSELF
+Bot: I'm Vecna AI, a rule-based chatbot created for AI internship tasks. I log all conversations to output.txt.
+Category: name
+--------------------------------------------------
+
+[2025-12-16 11:39:12]
+You: WHAT IS AI
+Bot: AI (Artificial Intelligence) is the simulation of human intelligence in machines programmed to think and learn.
+Category: ai_definition
+--------------------------------------------------
+
+[2025-12-16 11:40:54]
+You: What is machine learning
+Bot: Hey! Nice to meet you. How can I assist?
+Category: greetings
+--------------------------------------------------
+
+[2025-12-16 11:41:06]
+You: what is ml
+Bot: ML is about creating algorithms that can learn from and make predictions on data.
+Category: ml_definition
+--------------------------------------------------
+
+[2025-12-16 11:41:35]
+You: internship task
+Bot: Hey! Nice to meet you. How can I assist?
+Category: greetings
+--------------------------------------------------
+
+[2025-12-16 11:41:53]
+You: internship
+Bot: Greetings! I'm here to help with your AI questions.
+Category: greetings
+--------------------------------------------------
+
+[2025-12-16 11:42:02]
+You: internship task
+Bot: Hello! How can I help you today?
+Category: greetings
+--------------------------------------------------
+
+[2025-12-16 11:42:14]
+You: show log
+Bot: I'm saving this chat to output.txt file. You can open it with any text editor.
+Category: file_questions
+--------------------------------------------------
+
+[2025-12-16 11:42:23]
+You: date
+Bot: That's interesting! Could you ask me something about artificial intelligence?
+Category: default
+--------------------------------------------------
+
+[2025-12-16 11:42:39]
+You: current time
+Bot: It's 11:42 AM on Tuesday, December 16, 2025. (Saved to output.txt)
+Category: time_date
+--------------------------------------------------
+
+[2025-12-16 11:43:11]
+You: bot
+Bot: That's interesting! Could you ask me something about artificial intelligence?
+Category: default
+--------------------------------------------------
+
+[2025-12-16 11:43:22]
+You: bye
+Bot: See you later!
+Category: farewell
+--------------------------------------------------
+
